@@ -1,0 +1,16 @@
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.exe
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.deps.json
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.runtimeconfig.json
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.runtimeconfig.dev.json
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.dll
+E:\Fundametals C#\04.CenturiesТоMinutes\bin\Debug\net5.0\04.CenturiesТоMinutes.pdb
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.csproj.AssemblyReference.cache
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.AssemblyInfoInputs.cache
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.AssemblyInfo.cs
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.dll
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\refint\04.CenturiesТоMinutes.dll
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.pdb
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\04.CenturiesТоMinutes.genruntimeconfig.cache
+E:\Fundametals C#\04.CenturiesТоMinutes\obj\Debug\net5.0\ref\04.CenturiesТоMinutes.dll

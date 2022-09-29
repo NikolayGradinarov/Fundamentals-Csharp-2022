@@ -1,0 +1,16 @@
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.exe
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.deps.json
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.runtimeconfig.json
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.runtimeconfig.dev.json
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.dll
+E:\Fundametals C#\07.ConcatNames\bin\Debug\net5.0\07.ConcatNames.pdb
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.csproj.AssemblyReference.cache
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.AssemblyInfoInputs.cache
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.AssemblyInfo.cs
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.dll
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\refint\07.ConcatNames.dll
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.pdb
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\07.ConcatNames.genruntimeconfig.cache
+E:\Fundametals C#\07.ConcatNames\obj\Debug\net5.0\ref\07.ConcatNames.dll

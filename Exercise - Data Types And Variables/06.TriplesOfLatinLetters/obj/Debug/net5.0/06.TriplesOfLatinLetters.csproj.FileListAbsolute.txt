@@ -1,0 +1,16 @@
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.exe
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.deps.json
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.runtimeconfig.json
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.runtimeconfig.dev.json
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.dll
+E:\Fundametals C#\06.TriplesOfLatinLetters\bin\Debug\net5.0\06.TriplesOfLatinLetters.pdb
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.csproj.AssemblyReference.cache
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.AssemblyInfoInputs.cache
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.AssemblyInfo.cs
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.dll
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\refint\06.TriplesOfLatinLetters.dll
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.pdb
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\06.TriplesOfLatinLetters.genruntimeconfig.cache
+E:\Fundametals C#\06.TriplesOfLatinLetters\obj\Debug\net5.0\ref\06.TriplesOfLatinLetters.dll

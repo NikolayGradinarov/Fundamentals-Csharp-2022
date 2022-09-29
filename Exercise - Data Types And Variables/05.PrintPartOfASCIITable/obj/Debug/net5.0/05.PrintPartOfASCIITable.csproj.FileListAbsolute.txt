@@ -1,0 +1,16 @@
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.exe
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.deps.json
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.runtimeconfig.json
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.runtimeconfig.dev.json
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.dll
+E:\Fundametals C#\05.PrintPartOfASCIITable\bin\Debug\net5.0\05.PrintPartOfASCIITable.pdb
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.csproj.AssemblyReference.cache
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.AssemblyInfoInputs.cache
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.AssemblyInfo.cs
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.dll
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\refint\05.PrintPartOfASCIITable.dll
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.pdb
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\05.PrintPartOfASCIITable.genruntimeconfig.cache
+E:\Fundametals C#\05.PrintPartOfASCIITable\obj\Debug\net5.0\ref\05.PrintPartOfASCIITable.dll

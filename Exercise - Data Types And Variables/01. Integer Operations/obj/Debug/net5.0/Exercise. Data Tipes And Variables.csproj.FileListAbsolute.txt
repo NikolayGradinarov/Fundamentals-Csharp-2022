@@ -1,0 +1,16 @@
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.exe
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.deps.json
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.runtimeconfig.json
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.runtimeconfig.dev.json
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.dll
+E:\Fundametals C#\Exercise. Data Tipes And Variables\bin\Debug\net5.0\Exercise. Data Tipes And Variables.pdb
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.csproj.AssemblyReference.cache
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.AssemblyInfoInputs.cache
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.AssemblyInfo.cs
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.dll
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\refint\Exercise. Data Tipes And Variables.dll
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.pdb
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\Exercise. Data Tipes And Variables.genruntimeconfig.cache
+E:\Fundametals C#\Exercise. Data Tipes And Variables\obj\Debug\net5.0\ref\Exercise. Data Tipes And Variables.dll

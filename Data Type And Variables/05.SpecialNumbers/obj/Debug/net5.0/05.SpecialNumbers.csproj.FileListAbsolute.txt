@@ -1,0 +1,16 @@
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.exe
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.deps.json
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.json
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.runtimeconfig.dev.json
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.dll
+E:\Fundametals C#\05.SpecialNumbers\bin\Debug\net5.0\05.SpecialNumbers.pdb
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.csproj.AssemblyReference.cache
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfoInputs.cache
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.AssemblyInfo.cs
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.dll
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\refint\05.SpecialNumbers.dll
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.pdb
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\05.SpecialNumbers.genruntimeconfig.cache
+E:\Fundametals C#\05.SpecialNumbers\obj\Debug\net5.0\ref\05.SpecialNumbers.dll

@@ -1,0 +1,16 @@
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.exe
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.deps.json
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.runtimeconfig.json
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.runtimeconfig.dev.json
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.dll
+E:\Fundametals C#\07.TheatrePromotion\bin\Debug\net5.0\07.TheatrePromotion.pdb
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.csproj.AssemblyReference.cache
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.AssemblyInfoInputs.cache
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.AssemblyInfo.cs
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.dll
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\refint\07.TheatrePromotion.dll
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.pdb
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\07.TheatrePromotion.genruntimeconfig.cache
+E:\Fundametals C#\07.TheatrePromotion\obj\Debug\net5.0\ref\07.TheatrePromotion.dll

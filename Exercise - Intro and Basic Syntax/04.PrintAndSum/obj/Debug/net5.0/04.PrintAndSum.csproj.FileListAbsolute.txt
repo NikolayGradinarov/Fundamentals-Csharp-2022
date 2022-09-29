@@ -1,0 +1,16 @@
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.exe
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.deps.json
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.json
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.runtimeconfig.dev.json
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.dll
+E:\Fundametals C#\04.PrintAndSum\bin\Debug\net5.0\04.PrintAndSum.pdb
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.AssemblyReference.cache
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfoInputs.cache
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.AssemblyInfo.cs
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.dll
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\refint\04.PrintAndSum.dll
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.pdb
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\04.PrintAndSum.genruntimeconfig.cache
+E:\Fundametals C#\04.PrintAndSum\obj\Debug\net5.0\ref\04.PrintAndSum.dll

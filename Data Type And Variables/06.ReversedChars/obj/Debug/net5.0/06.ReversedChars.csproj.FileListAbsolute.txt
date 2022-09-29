@@ -1,0 +1,16 @@
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.exe
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.deps.json
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.runtimeconfig.json
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.runtimeconfig.dev.json
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.dll
+E:\Fundametals C#\06.ReversedChars\bin\Debug\net5.0\06.ReversedChars.pdb
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.csproj.AssemblyReference.cache
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.AssemblyInfoInputs.cache
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.AssemblyInfo.cs
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.dll
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\refint\06.ReversedChars.dll
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.pdb
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\06.ReversedChars.genruntimeconfig.cache
+E:\Fundametals C#\06.ReversedChars\obj\Debug\net5.0\ref\06.ReversedChars.dll

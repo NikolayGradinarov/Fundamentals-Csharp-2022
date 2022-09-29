@@ -1,0 +1,16 @@
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.exe
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.deps.json
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.json
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.runtimeconfig.dev.json
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.dll
+E:\Fundametals C#\09.CharsToString\bin\Debug\net5.0\09.CharsToString.pdb
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.csproj.AssemblyReference.cache
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfoInputs.cache
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.AssemblyInfo.cs
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.dll
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\refint\09.CharsToString.dll
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.pdb
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\09.CharsToString.genruntimeconfig.cache
+E:\Fundametals C#\09.CharsToString\obj\Debug\net5.0\ref\09.CharsToString.dll

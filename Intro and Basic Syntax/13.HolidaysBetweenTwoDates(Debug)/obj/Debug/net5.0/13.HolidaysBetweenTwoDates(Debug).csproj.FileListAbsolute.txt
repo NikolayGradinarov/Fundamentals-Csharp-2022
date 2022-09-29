@@ -1,0 +1,16 @@
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).exe
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).deps.json
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).runtimeconfig.json
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).runtimeconfig.dev.json
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).dll
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\bin\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).pdb
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).csproj.AssemblyReference.cache
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).AssemblyInfoInputs.cache
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).AssemblyInfo.cs
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).csproj.CoreCompileInputs.cache
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).dll
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\refint\13.HolidaysBetweenTwoDates(Debug).dll
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).pdb
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\13.HolidaysBetweenTwoDates(Debug).genruntimeconfig.cache
+E:\Fundametals C#\13.HolidaysBetweenTwoDates(Debug)\obj\Debug\net5.0\ref\13.HolidaysBetweenTwoDates(Debug).dll

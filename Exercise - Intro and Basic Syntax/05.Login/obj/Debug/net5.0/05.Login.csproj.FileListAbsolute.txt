@@ -1,0 +1,16 @@
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.exe
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.deps.json
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.runtimeconfig.json
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.runtimeconfig.dev.json
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.dll
+E:\Fundametals C#\05.Login\bin\Debug\net5.0\05.Login.pdb
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.csproj.AssemblyReference.cache
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.AssemblyInfoInputs.cache
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.AssemblyInfo.cs
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.dll
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\refint\05.Login.dll
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.pdb
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\05.Login.genruntimeconfig.cache
+E:\Fundametals C#\05.Login\obj\Debug\net5.0\ref\05.Login.dll

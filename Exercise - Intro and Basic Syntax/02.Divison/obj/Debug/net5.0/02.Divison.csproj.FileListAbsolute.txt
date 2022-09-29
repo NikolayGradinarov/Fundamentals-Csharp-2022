@@ -1,0 +1,16 @@
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.exe
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.deps.json
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.runtimeconfig.json
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.runtimeconfig.dev.json
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.dll
+E:\Fundametals C#\02.Divison\bin\Debug\net5.0\02.Divison.pdb
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.csproj.AssemblyReference.cache
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.AssemblyInfoInputs.cache
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.AssemblyInfo.cs
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.dll
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\refint\02.Divison.dll
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.pdb
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\02.Divison.genruntimeconfig.cache
+E:\Fundametals C#\02.Divison\obj\Debug\net5.0\ref\02.Divison.dll

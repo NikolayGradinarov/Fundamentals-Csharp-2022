@@ -1,0 +1,16 @@
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.exe
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.deps.json
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.runtimeconfig.json
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.runtimeconfig.dev.json
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.dll
+E:\Fundametals C#\06.ForeignLanguages\bin\Debug\net5.0\06.ForeignLanguages.pdb
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.csproj.AssemblyReference.cache
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.AssemblyInfoInputs.cache
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.AssemblyInfo.cs
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.dll
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\refint\06.ForeignLanguages.dll
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.pdb
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\06.ForeignLanguages.genruntimeconfig.cache
+E:\Fundametals C#\06.ForeignLanguages\obj\Debug\net5.0\ref\06.ForeignLanguages.dll

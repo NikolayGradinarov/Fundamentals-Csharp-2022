@@ -1,0 +1,16 @@
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.exe
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.deps.json
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.runtimeconfig.json
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.runtimeconfig.dev.json
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.dll
+E:\Fundametals C#\04.SumOfChars\bin\Debug\net5.0\04.SumOfChars.pdb
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.csproj.AssemblyReference.cache
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.AssemblyInfoInputs.cache
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.AssemblyInfo.cs
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.dll
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\refint\04.SumOfChars.dll
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.pdb
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\04.SumOfChars.genruntimeconfig.cache
+E:\Fundametals C#\04.SumOfChars\obj\Debug\net5.0\ref\04.SumOfChars.dll

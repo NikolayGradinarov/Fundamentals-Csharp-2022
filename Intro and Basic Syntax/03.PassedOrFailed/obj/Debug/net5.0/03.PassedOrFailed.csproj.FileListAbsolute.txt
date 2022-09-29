@@ -1,0 +1,16 @@
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.exe
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.deps.json
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.json
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.runtimeconfig.dev.json
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.dll
+E:\Fundametals C#\03.PassedOrFailed\bin\Debug\net5.0\03.PassedOrFailed.pdb
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.AssemblyReference.cache
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfoInputs.cache
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.AssemblyInfo.cs
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.dll
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\refint\03.PassedOrFailed.dll
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.pdb
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\03.PassedOrFailed.genruntimeconfig.cache
+E:\Fundametals C#\03.PassedOrFailed\obj\Debug\net5.0\ref\03.PassedOrFailed.dll

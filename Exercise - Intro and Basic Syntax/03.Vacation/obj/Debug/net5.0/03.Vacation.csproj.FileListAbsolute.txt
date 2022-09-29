@@ -1,0 +1,16 @@
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.exe
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.deps.json
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.runtimeconfig.json
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.runtimeconfig.dev.json
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.dll
+E:\Fundametals C#\03.Vacation\bin\Debug\net5.0\03.Vacation.pdb
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.csproj.AssemblyReference.cache
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.AssemblyInfoInputs.cache
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.AssemblyInfo.cs
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.dll
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\refint\03.Vacation.dll
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.pdb
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\03.Vacation.genruntimeconfig.cache
+E:\Fundametals C#\03.Vacation\obj\Debug\net5.0\ref\03.Vacation.dll

@@ -1,0 +1,16 @@
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.exe
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.deps.json
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.json
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.runtimeconfig.dev.json
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.dll
+E:\Fundametals C#\05.MonthPrinter\bin\Debug\net5.0\05.MonthPrinter.pdb
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.csproj.AssemblyReference.cache
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfoInputs.cache
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.AssemblyInfo.cs
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.dll
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\refint\05.MonthPrinter.dll
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.pdb
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\05.MonthPrinter.genruntimeconfig.cache
+E:\Fundametals C#\05.MonthPrinter\obj\Debug\net5.0\ref\05.MonthPrinter.dll

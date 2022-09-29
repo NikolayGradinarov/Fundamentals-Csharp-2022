@@ -1,0 +1,16 @@
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.exe
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.deps.json
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.json
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.runtimeconfig.dev.json
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.dll
+E:\Fundametals C#\06.StrongNumber\bin\Debug\net5.0\06.StrongNumber.pdb
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.AssemblyReference.cache
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfoInputs.cache
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.AssemblyInfo.cs
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.dll
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\refint\06.StrongNumber.dll
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.pdb
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\06.StrongNumber.genruntimeconfig.cache
+E:\Fundametals C#\06.StrongNumber\obj\Debug\net5.0\ref\06.StrongNumber.dll

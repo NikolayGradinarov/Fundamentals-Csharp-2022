@@ -1,0 +1,16 @@
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.exe
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.deps.json
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.json
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.runtimeconfig.dev.json
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.dll
+E:\Fundametals C#\09.SumOfOddNumbers\bin\Debug\net5.0\09.SumOfOddNumbers.pdb
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.csproj.AssemblyReference.cache
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfoInputs.cache
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.AssemblyInfo.cs
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.dll
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\refint\09.SumOfOddNumbers.dll
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.pdb
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\09.SumOfOddNumbers.genruntimeconfig.cache
+E:\Fundametals C#\09.SumOfOddNumbers\obj\Debug\net5.0\ref\09.SumOfOddNumbers.dll

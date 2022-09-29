@@ -1,0 +1,16 @@
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.exe
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.deps.json
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.runtimeconfig.json
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.runtimeconfig.dev.json
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.dll
+E:\Fundametals C#\11.MultiplicationTable2\bin\Debug\net5.0\11.MultiplicationTable2.pdb
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.csproj.AssemblyReference.cache
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.AssemblyInfoInputs.cache
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.AssemblyInfo.cs
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.dll
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\refint\11.MultiplicationTable2.dll
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.pdb
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\11.MultiplicationTable2.genruntimeconfig.cache
+E:\Fundametals C#\11.MultiplicationTable2\obj\Debug\net5.0\ref\11.MultiplicationTable2.dll

@@ -1,0 +1,16 @@
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.exe
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.deps.json
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.runtimeconfig.json
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.runtimeconfig.dev.json
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.dll
+E:\Fundametals C#\03.ExactSumОfRealNumbers\bin\Debug\net5.0\03.ExactSumОfRealNumbers.pdb
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.csproj.AssemblyReference.cache
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.AssemblyInfoInputs.cache
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.AssemblyInfo.cs
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.dll
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\refint\03.ExactSumОfRealNumbers.dll
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.pdb
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\03.ExactSumОfRealNumbers.genruntimeconfig.cache
+E:\Fundametals C#\03.ExactSumОfRealNumbers\obj\Debug\net5.0\ref\03.ExactSumОfRealNumbers.dll

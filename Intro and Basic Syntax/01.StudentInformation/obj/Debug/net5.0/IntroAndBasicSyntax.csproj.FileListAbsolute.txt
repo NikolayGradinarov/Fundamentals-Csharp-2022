@@ -1,0 +1,16 @@
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.exe
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.deps.json
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.runtimeconfig.json
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.runtimeconfig.dev.json
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.dll
+E:\Fundametals C#\IntroAndBasicSyntax\bin\Debug\net5.0\IntroAndBasicSyntax.pdb
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.csproj.AssemblyReference.cache
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.AssemblyInfoInputs.cache
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.AssemblyInfo.cs
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.dll
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\refint\IntroAndBasicSyntax.dll
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.pdb
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\IntroAndBasicSyntax.genruntimeconfig.cache
+E:\Fundametals C#\IntroAndBasicSyntax\obj\Debug\net5.0\ref\IntroAndBasicSyntax.dll

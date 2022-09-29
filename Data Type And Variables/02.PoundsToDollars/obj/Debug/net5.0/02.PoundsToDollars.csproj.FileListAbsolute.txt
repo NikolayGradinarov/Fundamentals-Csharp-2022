@@ -1,0 +1,16 @@
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.exe
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.deps.json
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.runtimeconfig.json
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.runtimeconfig.dev.json
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.dll
+E:\Fundametals C#\02.PoundsToDollars\bin\Debug\net5.0\02.PoundsToDollars.pdb
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.csproj.AssemblyReference.cache
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.AssemblyInfoInputs.cache
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.AssemblyInfo.cs
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.dll
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\refint\02.PoundsToDollars.dll
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.pdb
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\02.PoundsToDollars.genruntimeconfig.cache
+E:\Fundametals C#\02.PoundsToDollars\obj\Debug\net5.0\ref\02.PoundsToDollars.dll

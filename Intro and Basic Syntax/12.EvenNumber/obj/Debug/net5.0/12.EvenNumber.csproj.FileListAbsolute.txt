@@ -1,0 +1,16 @@
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.exe
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.deps.json
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.runtimeconfig.json
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.runtimeconfig.dev.json
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.dll
+E:\Fundametals C#\12.EvenNumber\bin\Debug\net5.0\12.EvenNumber.pdb
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.csproj.AssemblyReference.cache
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.AssemblyInfoInputs.cache
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.AssemblyInfo.cs
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.dll
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\refint\12.EvenNumber.dll
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.pdb
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\12.EvenNumber.genruntimeconfig.cache
+E:\Fundametals C#\12.EvenNumber\obj\Debug\net5.0\ref\12.EvenNumber.dll

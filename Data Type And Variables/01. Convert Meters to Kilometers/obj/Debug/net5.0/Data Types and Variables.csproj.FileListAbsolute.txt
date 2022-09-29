@@ -1,0 +1,16 @@
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.exe
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.deps.json
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.json
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.dev.json
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.dll
+E:\Fundametals C#\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.pdb
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.AssemblyReference.cache
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.GeneratedMSBuildEditorConfig.editorconfig
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfoInputs.cache
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfo.cs
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.CoreCompileInputs.cache
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.dll
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\refint\Data Types and Variables.dll
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.pdb
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.genruntimeconfig.cache
+E:\Fundametals C#\Data Types and Variables\obj\Debug\net5.0\ref\Data Types and Variables.dll
